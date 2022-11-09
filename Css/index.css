@@ -1,0 +1,14 @@
+.library-container
+{
+    margin-top: 150px;
+}
+.book-container
+{
+    justify-content: space-evenly;
+}
+.book-column
+{
+    height: 300px;
+    width: 250px;
+    border: 3px solid red;
+}
